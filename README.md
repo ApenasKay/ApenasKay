@@ -4,9 +4,9 @@
    - 😄 Interesses furutos: Python, C++, Typescript, React... etc.
 ##
 <div align="center">
-  <a href="https://github.com/ApenasKay">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ApenasKay&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApenasKay&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/LeandruOliveira">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeandruOliveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandrUOliveira&layout=compact&langs_count=7&theme=dark"/>
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/920244846835417098/927302798612234290/Casamento_arranjado____2_Temporada_1.gif">
 </div>
 
