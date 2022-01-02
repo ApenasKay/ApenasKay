@@ -1,6 +1,6 @@
 
-   - 💻 Aprendiz de front-end
-   - 🍒 Atualmente Estudando JavaScript, CSS , HTML
+   - 💻 Aprendiz de Front-end.
+   - 🍒 Atualmente Estudando JavaScript, CSS , HTML.
    - 😄 Interesses furutos: Python, C++, Typescript, React... etc.
 ##
 <div align="center">
