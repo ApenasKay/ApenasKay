@@ -3,9 +3,9 @@
    - 😄 Interesses futuros: Python, C++, Typescript, React... etc.
 ##
 <div align="center">
-  <a href="https://github.com/LeandruOliveira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeandruOliveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandrUOliveira&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/Leanoli">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leanoli&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leanoli&layout=compact&langs_count=7&theme=dark"/>
   <img align="right" alt="Lean-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/927305533264904222/927338052421058571/7121-pinkkitty.gif">
 </div>
 
