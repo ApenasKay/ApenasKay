@@ -1,4 +1,4 @@
-   - 💻 Aprendiz de Front-end.
+   - 💻 Aprendiz de Engenharia de Software.
    - 🍒 Atualmente estudando JavaScript, CSS , HTML.
    - 😄 Interesses futuros: Python, C++, Typescript, React... etc.
 ##
