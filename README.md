@@ -1,4 +1,4 @@
-   - 💻 Aprendiz de Engenharia de Software.
+   - 💻 Aprendiz de Full Stacke.
    - 🍒 Atualmente estudando JavaScript, CSS , HTML.
    - 😄 Interesses futuros: Python, C++, Typescript, React... etc.
 ##
